@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<getRefinedTopicCountRequest
+        xmlns="http://www.lhx.com/ws/server/springws/schema/messages/v1">
+    <startDate>2014-12-01</startDate>
+    <endDate>2014-12-31</endDate>
+</getRefinedTopicCountRequest>
